@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "syLZq7xgSNOOLdZYFvs0VaHlveB3bH8mQdlmmIcmm1MPeG8jdK3F8zftGyYqLq2ltDrFL9XM+BqH6gGlS0bsHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\Documents\\SNHU Class files\\CS-499 Capstone\\Authentication App\\C#\\Zoo_Authentication_System\\Zoo_Authentication_System\\Zoo_Authentication_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

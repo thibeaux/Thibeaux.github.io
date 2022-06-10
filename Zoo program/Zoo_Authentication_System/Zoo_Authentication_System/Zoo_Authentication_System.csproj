@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Veterinarian.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="Veterinarian.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NPOI" Version="2.5.6" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Configurations\configuration.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Models\credentials\ZooDatabase.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Utilities\" />
+  </ItemGroup>
+
+</Project>
